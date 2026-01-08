@@ -288,3 +288,4 @@ tools
 *.db-shm
 *.db-wal
 *.db
+.file_activity_report.json
